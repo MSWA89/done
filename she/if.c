@@ -6,6 +6,6 @@
 int main()
 {
     printf("Hi there!!\n");
-
+    printf("New is here!!\n");
     return 0;
 }
